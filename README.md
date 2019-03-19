@@ -75,6 +75,8 @@ Skills
 These, for now, are merely skills I am seeking to acquire. These are not unique patented ideas.
 
 **Acquired**
+- [x] Javascript
+- [x] CSS3
 - [x] React
 - [x] React Native
 - [x] Node.js
@@ -93,4 +95,4 @@ These, for now, are merely skills I am seeking to acquire. These are not unique 
 - [ ] EOS wallet GUI
 - [ ] EOS tables (blockchain as a database)
 - [ ] GPS interfacing
-- [ ] Biometric interfacing 
+- [ ] Biometric interfacing
