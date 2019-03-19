@@ -63,3 +63,34 @@ Skills
 - [x] Authentication
 - [x] Basic EOS Smart Contracts
 - [ ] Payments to a smart contract
+
+### 2.5 Project keys
+
+Skills
+- [ ] Create a mutlisig wallet in EOS
+
+
+## 3 | Technologies
+
+These, for now, are merely skills I am seeking to acquire. These are not unique patented ideas.
+
+**Acquired**
+- [x] React
+- [x] React Native
+- [x] Node.js
+- [x] Express
+- [x] MongoDB
+- [x] API interfacing using express and React/React-Native
+- [x] authentication using MERN
+- [x] `eosio.token` contract
+- [x] Scatter wallet with React and eosjs beta@3
+- [x] Linear gradients on React-Native-Web
+- [x] SVGs on React-Native-Web
+
+**Seeking to Acquire**
+- [ ] Animations on React-Native
+- [ ] EOS multisig wallets
+- [ ] EOS wallet GUI
+- [ ] EOS tables (blockchain as a database)
+- [ ] GPS interfacing
+- [ ] Biometric interfacing 
