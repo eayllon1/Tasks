@@ -1,5 +1,20 @@
 # 19.0.0 Tasks
 
+## Table of Contents
+
+<!-- TOC START min:1 max:4 link:true update:true -->
+- [19.0.0 Tasks](#1900-tasks)
+  - [Table of Contents](#table-of-contents)
+  - [1 | Description](#1--description)
+  - [2 | Projects](#2--projects)
+    - [2.1 The Blockchain Body of Penn State](#21-the-blockchain-body-of-penn-state)
+    - [2.2 Project Swan](#22-project-swan)
+    - [2.3 Project Certify](#23-project-certify)
+    - [2.4 Project ecos](#24-project-ecos)
+    - [2.5 Project keys](#25-project-keys)
+  - [3 | Technologies](#3--technologies)
+
+<!-- TOC END -->
 
 ## 1 | Description
 
