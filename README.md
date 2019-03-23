@@ -34,14 +34,18 @@ Marketing Concepts
   - [x] Community
 
 Club Marketing
-- [x] Create a Club Website
+- [x] [Create a Club Website](https://sites.psu.edu/blockchain/)
 - [x] Create a poster advertising the website
 
 Club Website
-- [x] Create the Website
-- [x] Add a sign up form
-- [x] Link our Telegram Group
-- [x] Add a description of our club (vision and activities)
+- [x] [Create the Website](https://sites.psu.edu/blockchain/)
+- [x] Add a [sign up form](https://sites.psu.edu/blockchain/join-the-mailing-list/)
+- [x] Link our [Telegram Group](https://t.me/joinchat/G-FFhlMPA34zP8Z3XZcUGA)
+- [x] Add a [description of our club (vision and activities)](https://sites.psu.edu/blockchain/)
+- [ ] Add Posts to the website
+  - [x] Add [Javascript Crash Course](https://sites.psu.edu/blockchain/2019/03/21/javascript-crash-course/)
+  - [x] Add Product creation fundamentals
+  - [x] Add engineering creativity
 
 
 ### 2.2 Project Swan
