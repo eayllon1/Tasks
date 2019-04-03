@@ -42,7 +42,11 @@ Club Website
 - [x] Add a [sign up form](https://sites.psu.edu/blockchain/join-the-mailing-list/)
 - [x] Link our [Telegram Group](https://t.me/joinchat/G-FFhlMPA34zP8Z3XZcUGA)
 - [x] Add a [description of our club (vision and activities)](https://sites.psu.edu/blockchain/)
-- [ ] Add Posts to the website
+- [x] Add past projects to the website
+  - [x] Swan
+  - [x] EOS paid restricted sections
+  - [x] MERN Authentication
+- [x] Add Posts to the website
   - [x] Add [Javascript Crash Course](https://sites.psu.edu/blockchain/2019/03/21/javascript-crash-course/)
   - [x] Add Product creation fundamentals
   - [x] Add engineering creativity
@@ -63,9 +67,9 @@ Skills
 Components
 - [x] Build an API using Express
 - [x] Build an authentication protocol on Mongodb, Express.js, and Node.js, and React
-- [ ] Build restricted sections that activate with a payment
+- [x] Build restricted sections that activate with a payment
   - [x] Learn to interface payments with React, Scatter Wallet, and EOS
-  - [ ] Confirm payment for a user in Node.js, unlock restricted section
+  - [x] Confirm payment for a user in Node.js, unlock restricted section
 
 
 ### 2.3 Project Certify
@@ -78,7 +82,7 @@ Skills
 ### 2.4 Project ecos
 
 Skills
-- [ ] Create, Read, Update, Delete (CRUD)
+- [x] Create, Read, Update, Delete (CRUD)
 - [x] Authentication
 - [x] Basic EOS Smart Contracts
 - [ ] Payments to a smart contract
@@ -88,6 +92,8 @@ Skills
 Skills
 - [ ] Create a mutlisig wallet in EOS
 
+
+### 2.6 Wekila
 
 ## 3 | Technologies
 
@@ -109,6 +115,8 @@ These, for now, are merely skills I am seeking to acquire. These are not unique 
 - [x] SVGs on React-Native-Web
 - [x] `screen` and `tmux`
 - [x] Paid restricted sections (MERN + EOS `eosio.token`)
+- [x] Digital Ocean droplets (using, not duplicating)
+- [x] SSL in Node.js
 
 **Seeking to Acquire**
 - [ ] Animations on React-Native
@@ -119,4 +127,3 @@ These, for now, are merely skills I am seeking to acquire. These are not unique 
 - [ ] Biometric interfacing
 - [ ] IPFS (js, for React)
 - [ ] Docker (for React, in Digital Ocean)
-- [ ] Digital Ocean droplets (using, not duplicating)
