@@ -1,9 +1,9 @@
-# 19.0.0 Tasks
+# 19.0.0 Projects and Tasks Overview
 
 ## Table of Contents
 
 <!-- TOC START min:1 max:4 link:true update:true -->
-- [19.0.0 Tasks](#1900-tasks)
+- [19.0.0 Projects and Tasks Overview](#1900-projects-and-tasks-overview)
   - [Table of Contents](#table-of-contents)
   - [1 | Description](#1--description)
   - [2 | Projects](#2--projects)
@@ -107,6 +107,8 @@ These, for now, are merely skills I am seeking to acquire. These are not unique 
 - [x] Scatter wallet with React and eosjs beta@3
 - [x] Linear gradients on React-Native-Web
 - [x] SVGs on React-Native-Web
+- [x] `screen` and `tmux`
+- [x] Paid restricted sections (MERN + EOS `eosio.token`)
 
 **Seeking to Acquire**
 - [ ] Animations on React-Native
@@ -115,3 +117,6 @@ These, for now, are merely skills I am seeking to acquire. These are not unique 
 - [ ] EOS tables (blockchain as a database)
 - [ ] GPS interfacing
 - [ ] Biometric interfacing
+- [ ] IPFS (js, for React)
+- [ ] Docker (for React, in Digital Ocean)
+- [ ] Digital Ocean droplets (using, not duplicating)
