@@ -12,6 +12,7 @@
     - [2.3 Project Certify](#23-project-certify)
     - [2.4 Project ecos](#24-project-ecos)
     - [2.5 Project keys](#25-project-keys)
+    - [2.6 Project Fold](#26-project-fold)
   - [3 | Technologies](#3--technologies)
 
 <!-- TOC END -->
@@ -36,6 +37,7 @@ Marketing Concepts
 Club Marketing
 - [x] [Create a Club Website](https://sites.psu.edu/blockchain/)
 - [x] Create a poster advertising the website
+- [x] Generate a list of events and professors for advertising the club
 
 Club Website
 - [x] [Create the Website](https://sites.psu.edu/blockchain/)
@@ -50,11 +52,12 @@ Club Website
   - [x] Add [Javascript Crash Course](https://sites.psu.edu/blockchain/2019/03/21/javascript-crash-course/)
   - [x] Add Product creation fundamentals
   - [x] Add engineering creativity
-
+  - [x] Added EOS courses we ran
+- [x] Changed website design for marketing friendly value, along with resource reference value
 
 ### 2.2 Project Swan
 
-*Status:* Version 1 complete, waiting for deployment. Version 2 in progress.
+*Status:* Version 1 deployed.
 
 Skills
 - [x] Learn Javascript
@@ -74,7 +77,7 @@ Components
 
 ### 2.3 Project Certify
 
-Skills
+Skills/Technologies
 - [x] Basic EOS Smart Contracts
 - [x] EOS tables
 
@@ -93,7 +96,10 @@ Skills
 - [ ] Create a mutlisig wallet in EOS
 
 
-### 2.6 Wekila
+### 2.6 Project Fold
+
+Skills/Technologies
+- [x] QR code generation
 
 ## 3 | Technologies
 
@@ -117,6 +123,7 @@ These, for now, are merely skills I am seeking to acquire. These are not unique 
 - [x] Paid restricted sections (MERN + EOS `eosio.token`)
 - [x] Digital Ocean droplets (using, not duplicating)
 - [x] SSL in Node.js
+- [x] QR code generation (web and mobile)
 
 **Seeking to Acquire**
 - [ ] Animations on React-Native
