@@ -1,10 +1,22 @@
-# 19.0.0 Projects and Tasks Overview
+---
+author: Edson Ayllon
+category: project management
+tags:
+- tasks
+- projects
+status: outdated
+twitter: https://twitter.com/relativeread
+---
 
-## Table of Contents
 
-<!-- TOC START min:1 max:4 link:true update:true -->
-- [19.0.0 Projects and Tasks Overview](#1900-projects-and-tasks-overview)
-  - [Table of Contents](#table-of-contents)
+## PM 1-2019
+
+# Projects and Tasks Overview
+
+A database of tasks for longterm projects I'm working on.
+
+## Contents
+
   - [1 | Description](#1--description)
   - [2 | Projects](#2--projects)
     - [2.1 The Blockchain Body of Penn State](#21-the-blockchain-body-of-penn-state)
@@ -15,7 +27,7 @@
     - [2.6 Project Fold](#26-project-fold)
   - [3 | Technologies](#3--technologies)
 
-<!-- TOC END -->
+
 
 ## 1 | Description
 
